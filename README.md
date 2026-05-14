@@ -6,7 +6,7 @@ A lightweight, console-based Library Management System built in C++. This applic
 
 * **Add New Books:** Easily input book details including a unique Book ID, Title, and Author Name.
 * **Persistent Storage:** Utilizes C++ File I/O (`<fstream>`) to automatically save all records to a local `library.txt` file, ensuring data is not lost when the program closes.
-* **View Inventory:** Read and display all stored books from the database in a clean, formatted layout.
+* **View Inventory:** Read and display all stored books from the file in a clean, formatted layout.
 * **Search Functionality:** Quickly search for a specific book by its title using string comparison techniques.
 * **Interactive Console UI:** A simple, menu-driven interface that keeps the application running until the user chooses to exit.
 
